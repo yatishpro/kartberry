@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T16:23:34.910Z" agent="5.0 (X11)" version="14.9.0" etag="d3NXzK0wQtMNHOYQzHBB" type="github"><diagram id="AaCuDNkuyckj2ld1FRbe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-26T16:31:09.350Z" agent="5.0 (X11)" etag="pJQfmUihjwGCMiINeKyG" version="14.9.0" type="github">
+  <diagram id="AaCuDNkuyckj2ld1FRbe" name="Page-1">
+    <mxGraphModel dx="1267" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LCcmJo_DMatkqn9_69mE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LCcmJo_DMatkqn9_69mE-3" target="LCcmJo_DMatkqn9_69mE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCcmJo_DMatkqn9_69mE-3" value="&lt;div&gt;Landing Page&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Select Location to enter into site&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LCcmJo_DMatkqn9_69mE-6" value="&lt;div&gt;Home Page&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LCcmJo_DMatkqn9_69mE-8" value="https://dribbble.com/shots/10979323-Fresh-Grocery-Landing-Page-Template" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="55" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LCcmJo_DMatkqn9_69mE-9" value="&lt;div&gt;https://dribbble.com/shots/15642729/attachments/7434808?mode=media&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="167" width="400" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
